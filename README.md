@@ -122,11 +122,7 @@ Select a record to update its fields, or delete records individually, by segment
 - **Near Expiry Dashboard** — Lists all products expiring within a configurable window (15 / 20 / 30 days).
 - **Raw Data** — Full table view of either collection, filterable by segment or family.
 
----
-
-## Device Testing
-
-This web app was tested on real Android and iOS web browsers using [TestGrid](https://testgrid.io). 
+This web app was tested using [TestGrid](https://testgrid.io). 
 
 ---
 
